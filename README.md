@@ -425,7 +425,8 @@ development life-cycle, is a process for planning, creating, testing, and deploy
 - [10 Important Areas of Project Management Interview Questions and Answers](https://www.simplilearn.com/project-management-interview-questions-and-answers-article) - Senior executives and HR managers recognize project management as indispensable to business success. They know that skilled and credentialed project managers are among their most valuable resources. The Project Management Institute reports in a survey that in the U.S., over $122 million gets wasted for every $1 billion invested due to poor project performance. When it comes to hiring qualified project managers, things get a little tricky, and candidates are reviewed in several ways.
 
 
-License
-----
+License MIT
 
-MIT
+Email: dradnanfarzandali@gmail.com
+LinkedIn: Dr. Adnan Farzand Ali (PhD)
+Thank you for visiting my Contributions of Project Management Excellence!
